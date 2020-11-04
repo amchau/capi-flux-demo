@@ -17,7 +17,10 @@ stringData:
   # can PR their own signed commits to add/remove access for 
   # themselves or others, and it is logged in the commit log.
   amchau.asc: |
-     -----BEGIN PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: Keybase Go 5.5.2 (linux)
+Comment: https://keybase.io/download
+
 xsFNBF+h7ocBEADj+nJ5bF9Nkueeo+42ggh9NXJEx8XDN+gNo3LtLpBIf+SMsESC
 MzqQE2xSUmjINW80bpffmq+23IYar6LfQ34JzcirUWK1277mhmXj6praomF/bt0y
 lu6Yj1O5bZAR4C55aXO/2SdaZY0gu48ZpHpdkhQZoevVysfXE4dmKLQXNMW9bTxo
@@ -67,4 +70,3 @@ nr0+vAgd3U3n7RGQSEcNrF7QyS4fm4M5uR/H9bbeqOLoCZ0UcRKATxUbA442H87h
 lz2fzc2+YbFAOK1Ld0cZPB3uU8dL0tuLdJEtzA==
 =P/iO
 -----END PGP PUBLIC KEY BLOCK-----
-
